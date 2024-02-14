@@ -1,5 +1,4 @@
-# amiga-test: project for testing Amiga c/c++ extension and
-# command Amiga: Init Project in visual studio code
+# amiga-test: project for testing Amiga c/c++ extension and command "Amiga: Init Project" in visual studio code
 
 A minimal project that may be debugged (F5)
 
