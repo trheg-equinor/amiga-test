@@ -1,6 +1,8 @@
-# amiga-test: project for testing Amiga c/c++ extension and command "Amiga: Init Project" in visual studio code
+# amiga-test
 
-A minimal project that may be debugged (F5)
+A minimal project for testing Amiga c/c++ extension and command "Amiga: Init Project" in visual studio code
+
+May be debugged (F5) using the winuea emulator and vscode editor
 
 Use cmd as terminal as git bash does not work
 
