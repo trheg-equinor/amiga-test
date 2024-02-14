@@ -1,4 +1,6 @@
-# amiga-test: project for testing amiga build & run
+# amiga-test: project for testing Amiga c/c++ extension and Amiga: Init Project
+
+A minimal project that may be debugged (F5)
 
 Use cmd as terminal as git bash does not work
 
