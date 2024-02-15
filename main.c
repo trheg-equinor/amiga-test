@@ -499,6 +499,9 @@ int main() {
 #endif
 
 	// END
+	//teh: clear debug as well
+	debug_clear();
+
 	FreeSystem();
 
 	CloseLibrary((struct Library*)DOSBase);
