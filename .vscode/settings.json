@@ -2,7 +2,7 @@
     "[m68k]": {
         "editor.rulers": []
     },
-    "amiga.rom-paths.A1200": "c:/dev/amiga/KICK31.rom",
-    "amiga.rom-paths.A4000": "c:/dev/amiga/KICK31.rom",
-    "amiga.rom-paths.A500": "c:/dev/amiga/KICK13.rom"
+    "amiga.rom-paths.A1200": "d:/vscode/amiga/KICK31.rom",
+    "amiga.rom-paths.A4000": "d:/vscode/amiga/KICK31.rom",
+    "amiga.rom-paths.A500": "d:/vscode/amiga/KICK13.rom",
 }
