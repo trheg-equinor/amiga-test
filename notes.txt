@@ -1,0 +1,2 @@
+
+rastport : Most functions require a pointer to a RastPort which is a special structure that is created from a Window or a Layer, referenced by Window->RPort
